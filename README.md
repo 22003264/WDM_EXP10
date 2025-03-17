@@ -53,3 +53,6 @@ reg.N0:212222230103
 
 
 ### Result:
+
+
+Thus, sentimental analysis for twitter data using Rapidminer is done successfully.
